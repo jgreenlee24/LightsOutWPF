@@ -1,0 +1,2 @@
+C:\Users\jgreenlee\Documents\GitHub\LightsOut! WPF\LightsOut! WPF\bin\Debug\LightsOut! WPF.exe.config
+C:\Users\jgreenlee\Documents\GitHub\LightsOutWPF\LightsOut! WPF\LightsOut! WPF\bin\Debug\LightsOut! WPF.exe.config
